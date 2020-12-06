@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/friends-adda/static/css/main.bbf937d2.chunk.css",
+    "main.js": "/friends-adda/static/js/main.efffcaf6.chunk.js",
+    "main.js.map": "/friends-adda/static/js/main.efffcaf6.chunk.js.map",
+    "runtime-main.js": "/friends-adda/static/js/runtime-main.3098d4c9.js",
+    "runtime-main.js.map": "/friends-adda/static/js/runtime-main.3098d4c9.js.map",
+    "static/js/2.ba3f7292.chunk.js": "/friends-adda/static/js/2.ba3f7292.chunk.js",
+    "static/js/2.ba3f7292.chunk.js.map": "/friends-adda/static/js/2.ba3f7292.chunk.js.map",
+    "static/js/3.bf87ac27.chunk.js": "/friends-adda/static/js/3.bf87ac27.chunk.js",
+    "static/js/3.bf87ac27.chunk.js.map": "/friends-adda/static/js/3.bf87ac27.chunk.js.map",
+    "index.html": "/friends-adda/index.html",
+    "static/css/main.bbf937d2.chunk.css.map": "/friends-adda/static/css/main.bbf937d2.chunk.css.map",
+    "static/js/2.ba3f7292.chunk.js.LICENSE.txt": "/friends-adda/static/js/2.ba3f7292.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3098d4c9.js",
+    "static/js/2.ba3f7292.chunk.js",
+    "static/css/main.bbf937d2.chunk.css",
+    "static/js/main.efffcaf6.chunk.js"
+  ]
+}
